@@ -1,0 +1,42 @@
+
+<form id="1340728542">
+<property name="name" value="SinMultas-taskform.form"/>
+<property name="displayMode" value="template"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<property name="formTemplate" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; width=&quot;1%&quot;&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td align=&quot;left&quot; colspan=&quot;1&quot; style=&quot;height:100%; &quot; valign=&quot;top&quot; width=&quot;100%&quot;&gt;
+			&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
+				&lt;tbody&gt;
+					&lt;tr&gt;
+						&lt;td nowrap=&quot;nowrap&quot; valign=&quot;top&quot; width=&quot;1%&quot;&gt;
+						&lt;div id=&quot;rut_label_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$label{rut}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+					&lt;tr&gt;
+						&lt;td valign=&quot;top&quot;&gt;
+						&lt;div id=&quot;rut_container&quot; style=&quot;padding-top: 3px; padding-right:3px;&quot;&gt;$field{rut}&lt;/div&gt;
+						&lt;/td&gt;
+					&lt;/tr&gt;
+				&lt;/tbody&gt;
+			&lt;/table&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;No registra Multas&lt;/p&gt;
+"/>
+<field position="0" name="rut" type="InputText" id="1155487214">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;rut_consulta (rut)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="rut_consulta"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="rut_consulta" value="java.lang.String" id="rut"/>
+</form>

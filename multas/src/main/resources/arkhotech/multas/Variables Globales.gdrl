@@ -1,0 +1,4 @@
+package arkhotech.multas;
+
+global java.lang.String outcome;
+global java.lang.String url;

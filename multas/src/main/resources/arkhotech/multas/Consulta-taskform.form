@@ -1,0 +1,15 @@
+
+<form id="1654454292">
+<property name="name" value="Consulta-taskform.form"/>
+<property name="displayMode" value="aligned"/>
+<property name="labelMode" value="undefined"/>
+<property name="status" value="0"/>
+<field position="0" name="Rut" type="InputText" id="1347676415">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;rut_consulta (Rut)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="rut_consulta"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="rut_consulta" value="java.lang.String" id="Rut"/>
+</form>
